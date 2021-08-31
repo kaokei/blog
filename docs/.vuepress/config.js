@@ -54,7 +54,7 @@ module.exports = config({
       {
         text: "主题文档",
         icon: "note",
-        link: "https://vuepress-theme-hope.github.io/en/",
+        link: "https://vuepress-theme-hope.github.io/",
       },
     ],
 
@@ -85,7 +85,7 @@ module.exports = config({
           },
           {
             text: "Docs",
-            link: "https://vuepress-theme-hope.github.io/",
+            link: "https://vuepress-theme-hope.github.io/en/",
             icon: "note",
           },
         ],
