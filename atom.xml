@@ -5,7 +5,7 @@
   <author>
     <name>Mr.Hope</name>
   </author>
-  <updated>2021-08-31T02:27:06.048Z</updated>
+  <updated>2021-08-31T02:47:04.396Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://vuepress-theme-hope-demo.mrhope.site/atom.xml"/>
   <link rel="alternate" href="https://vuepress-theme-hope-demo.mrhope.site/"/>
@@ -22,7 +22,7 @@
     <title type="html">Component disabled</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/en/guide/disable/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/en/guide/disable/"/>
-    <updated>2021-08-31T02:26:06.000Z</updated>
+    <updated>2021-08-31T02:46:11.000Z</updated>
     <summary type="html"><![CDATA[<p>You can disable some functions on the page by setting the Frontmatter of the page.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>You can disable some functions on the page by setting the Frontmatter of the page.</p>
@@ -49,14 +49,14 @@
     <contributor>
       <name>Mr.Hope</name>
     </contributor>
-    <published>2021-08-31T02:26:06.000Z</published>
+    <published>2021-08-31T02:46:11.000Z</published>
     <rights>Copyright by Mr.Hope</rights>
   </entry>
   <entry>
     <title type="html">Encryption article</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/en/guide/encrypt/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/en/guide/encrypt/"/>
-    <updated>2021-08-31T02:26:06.000Z</updated>
+    <updated>2021-08-31T02:46:11.000Z</updated>
     <content type="html"><![CDATA[<h1 id="encryption-article"> Encryption article</h1>
 <p>The actual article content.</p>
 <p>Paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text.</p>
@@ -69,14 +69,14 @@
     <contributor>
       <name>Mr.Hope</name>
     </contributor>
-    <published>2021-08-31T02:26:06.000Z</published>
+    <published>2021-08-31T02:46:11.000Z</published>
     <rights>Copyright by Mr.Hope</rights>
   </entry>
   <entry>
     <title type="html">Markdown Enhance</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/en/guide/markdown/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/en/guide/markdown/"/>
-    <updated>2021-08-31T02:26:06.000Z</updated>
+    <updated>2021-08-31T02:46:11.000Z</updated>
     <summary type="html"><![CDATA[<p><code>vuepress-theme-hope</code> enables more syntax in Markdown via the built-in <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a> plugin.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p><code>vuepress-theme-hope</code> enables more syntax in Markdown via the built-in <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a> plugin.</p>
@@ -534,14 +534,14 @@ A custom details container
     <contributor>
       <name>Mr.Hope</name>
     </contributor>
-    <published>2021-08-31T02:26:06.000Z</published>
+    <published>2021-08-31T02:46:11.000Z</published>
     <rights>Copyright by Mr.Hope</rights>
   </entry>
   <entry>
     <title type="html">page config</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/en/guide/page/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/en/guide/page/"/>
-    <updated>2021-08-31T02:26:06.000Z</updated>
+    <updated>2021-08-31T02:46:11.000Z</updated>
     <content type="html"><![CDATA[<h2 id="page-information"> Page information</h2>
 <p>You can set page information in Markdown’s Frontmatter.</p>
 <ul>
@@ -597,7 +597,7 @@ A custom details container
     <title type="html">Guides</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/en/guide/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/en/guide/"/>
-    <updated>2021-08-31T02:26:06.000Z</updated>
+    <updated>2021-08-31T02:46:11.000Z</updated>
     <content type="html"><![CDATA[<h1 id="guides"> Guides</h1>
 <ul>
 <li>
@@ -621,14 +621,14 @@ A custom details container
     <contributor>
       <name>Mr.Hope</name>
     </contributor>
-    <published>2021-08-31T02:26:06.000Z</published>
+    <published>2021-08-31T02:46:11.000Z</published>
     <rights>Copyright by Mr.Hope</rights>
   </entry>
   <entry>
     <title type="html">Project home</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/en/home/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/en/home/"/>
-    <updated>2021-08-31T02:26:06.000Z</updated>
+    <updated>2021-08-31T02:46:11.000Z</updated>
     <content type="html"><![CDATA[<p>This is an example of a normal homepage. You can place your main content here.</p>
 <p>To use this layout, you need to set <code>home: true</code> in the page front matter.</p>
 <p>For related descriptions of configuration items, please see <a href="https://vuepress-theme-hope.github.io/guide/layout/home/" target="_blank" rel="noopener noreferrer">Project HomePage Layout Config</a>.</p>
@@ -639,14 +639,14 @@ A custom details container
     <contributor>
       <name>Mr.Hope</name>
     </contributor>
-    <published>2021-08-31T02:26:06.000Z</published>
+    <published>2021-08-31T02:46:11.000Z</published>
     <rights>Copyright by Mr.Hope</rights>
   </entry>
   <entry>
     <title type="html">Intro Page</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/en/intro/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/en/intro/"/>
-    <updated>2021-08-31T02:26:06.000Z</updated>
+    <updated>2021-08-31T02:46:11.000Z</updated>
     <content type="html"><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content>
@@ -656,14 +656,14 @@ A custom details container
     <contributor>
       <name>Mr.Hope</name>
     </contributor>
-    <published>2021-08-31T02:26:06.000Z</published>
+    <published>2021-08-31T02:46:11.000Z</published>
     <rights>Copyright by Mr.Hope</rights>
   </entry>
   <entry>
     <title type="html">Custom Layout</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/en/layout/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/en/layout/"/>
-    <updated>2021-08-31T02:26:06.000Z</updated>
+    <updated>2021-08-31T02:46:11.000Z</updated>
     <content type="html"><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -688,14 +688,14 @@ A custom details container
     <contributor>
       <name>Mr.Hope</name>
     </contributor>
-    <published>2021-08-31T02:26:06.000Z</published>
+    <published>2021-08-31T02:46:11.000Z</published>
     <rights>Copyright by Mr.Hope</rights>
   </entry>
   <entry>
     <title type="html">Blog Home</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/en/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/en/"/>
-    <updated>2021-08-31T02:26:06.000Z</updated>
+    <updated>2021-08-31T02:46:11.000Z</updated>
     <content type="html"><![CDATA[<p>This is a blog home page.</p>
 <p>To use this layout, you should set both <code>blog: true</code> and <code>home: true</code> in the page front matter.</p>
 <p>For related configuration docs, please see <a href="https://vuepress-theme-hope.github.io/guide/blog/home/" target="_blank" rel="noopener noreferrer">blog homepage</a></p>
@@ -706,14 +706,14 @@ A custom details container
     <contributor>
       <name>Mr.Hope</name>
     </contributor>
-    <published>2021-08-31T02:26:06.000Z</published>
+    <published>2021-08-31T02:46:11.000Z</published>
     <rights>Copyright by Mr.Hope</rights>
   </entry>
   <entry>
     <title type="html">Slide page</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/en/slides/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/en/slides/"/>
-    <updated>2021-08-31T02:26:06.000Z</updated>
+    <updated>2021-08-31T02:46:11.000Z</updated>
     <content type="html"><![CDATA[
 <i>Not supported content</i>]]></content>
     <author>
@@ -722,14 +722,14 @@ A custom details container
     <contributor>
       <name>Mr.Hope</name>
     </contributor>
-    <published>2021-08-31T02:26:06.000Z</published>
+    <published>2021-08-31T02:46:11.000Z</published>
     <rights>Copyright by Mr.Hope</rights>
   </entry>
   <entry>
     <title type="html">组件禁用</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/guide/disable/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/guide/disable/"/>
-    <updated>2021-08-31T02:26:06.000Z</updated>
+    <updated>2021-08-31T02:46:11.000Z</updated>
     <summary type="html"><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
@@ -756,14 +756,14 @@ A custom details container
     <contributor>
       <name>Mr.Hope</name>
     </contributor>
-    <published>2021-08-31T02:26:06.000Z</published>
+    <published>2021-08-31T02:46:11.000Z</published>
     <rights>Copyright by Mr.Hope</rights>
   </entry>
   <entry>
     <title type="html">密码加密的文章</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/guide/encrypt/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/guide/encrypt/"/>
-    <updated>2021-08-31T02:26:06.000Z</updated>
+    <updated>2021-08-31T02:46:11.000Z</updated>
     <content type="html"><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -776,14 +776,14 @@ A custom details container
     <contributor>
       <name>Mr.Hope</name>
     </contributor>
-    <published>2021-08-31T02:26:06.000Z</published>
+    <published>2021-08-31T02:46:11.000Z</published>
     <rights>Copyright by Mr.Hope</rights>
   </entry>
   <entry>
     <title type="html">Markdown 增强</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/guide/markdown/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/guide/markdown/"/>
-    <updated>2021-08-31T02:26:06.000Z</updated>
+    <updated>2021-08-31T02:46:11.000Z</updated>
     <summary type="html"><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 ]]></summary>
     <content type="html"><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
@@ -1241,14 +1241,14 @@ $$
     <contributor>
       <name>Mr.Hope</name>
     </contributor>
-    <published>2021-08-31T02:26:06.000Z</published>
+    <published>2021-08-31T02:46:11.000Z</published>
     <rights>Copyright by Mr.Hope</rights>
   </entry>
   <entry>
     <title type="html">页面配置</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/guide/page/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/guide/page/"/>
-    <updated>2021-08-31T02:26:06.000Z</updated>
+    <updated>2021-08-31T02:46:11.000Z</updated>
     <content type="html"><![CDATA[<h2 id="页面信息"> 页面信息</h2>
 <p>你可以在 Markdown 的 Frontmatter 中设置页面信息。</p>
 <ul>
@@ -1304,7 +1304,7 @@ $$
     <title type="html">主要功能与配置演示</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/guide/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/guide/"/>
-    <updated>2021-08-31T02:26:06.000Z</updated>
+    <updated>2021-08-31T02:46:11.000Z</updated>
     <content type="html"><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -1328,14 +1328,14 @@ $$
     <contributor>
       <name>Mr.Hope</name>
     </contributor>
-    <published>2021-08-31T02:26:06.000Z</published>
+    <published>2021-08-31T02:46:11.000Z</published>
     <rights>Copyright by Mr.Hope</rights>
   </entry>
   <entry>
     <title type="html">项目主页</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/home/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/home/"/>
-    <updated>2021-08-31T02:26:06.000Z</updated>
+    <updated>2021-08-31T02:46:11.000Z</updated>
     <content type="html"><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -1346,16 +1346,16 @@ $$
     <contributor>
       <name>Mr.Hope</name>
     </contributor>
-    <published>2021-08-31T02:26:06.000Z</published>
+    <published>2021-08-31T02:46:11.000Z</published>
     <rights>Copyright by Mr.Hope</rights>
   </entry>
   <entry>
     <title type="html">介绍页面</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/intro/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/intro/"/>
-    <updated>2021-08-31T02:26:06.000Z</updated>
+    <updated>2021-08-31T02:46:11.000Z</updated>
     <content type="html"><![CDATA[<h1 id="介绍页面"> 介绍页面</h1>
-<p>这里放一些介绍自己的信息。</p>
+<p>这里放一些介绍自己的信息-001。</p>
 ]]></content>
     <author>
       <name>Mr.Hope</name>
@@ -1363,14 +1363,14 @@ $$
     <contributor>
       <name>Mr.Hope</name>
     </contributor>
-    <published>2021-08-31T02:26:06.000Z</published>
+    <published>2021-08-31T02:46:11.000Z</published>
     <rights>Copyright by Mr.Hope</rights>
   </entry>
   <entry>
     <title type="html">自定义布局</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/layout/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/layout/"/>
-    <updated>2021-08-31T02:26:06.000Z</updated>
+    <updated>2021-08-31T02:46:11.000Z</updated>
     <content type="html"><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <div><p>注意</p>
 <p>此处仅仅是一个演示，你应该自行根据需求添加样式。</p>
@@ -1395,14 +1395,14 @@ $$
     <contributor>
       <name>Mr.Hope</name>
     </contributor>
-    <published>2021-08-31T02:26:06.000Z</published>
+    <published>2021-08-31T02:46:11.000Z</published>
     <rights>Copyright by Mr.Hope</rights>
   </entry>
   <entry>
     <title type="html">博客主页</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/"/>
-    <updated>2021-08-31T02:26:06.000Z</updated>
+    <updated>2021-08-31T02:46:11.000Z</updated>
     <content type="html"><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -1413,14 +1413,14 @@ $$
     <contributor>
       <name>Mr.Hope</name>
     </contributor>
-    <published>2021-08-31T02:26:06.000Z</published>
+    <published>2021-08-31T02:46:11.000Z</published>
     <rights>Copyright by Mr.Hope</rights>
   </entry>
   <entry>
     <title type="html">幻灯片页</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/slides/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/slides/"/>
-    <updated>2021-08-31T02:26:06.000Z</updated>
+    <updated>2021-08-31T02:46:11.000Z</updated>
     <content type="html"><![CDATA[
 <i>Not supported content</i>]]></content>
     <author>
@@ -1429,7 +1429,7 @@ $$
     <contributor>
       <name>Mr.Hope</name>
     </contributor>
-    <published>2021-08-31T02:26:06.000Z</published>
+    <published>2021-08-31T02:46:11.000Z</published>
     <rights>Copyright by Mr.Hope</rights>
   </entry>
 </feed>
