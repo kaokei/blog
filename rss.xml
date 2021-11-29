@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <atom:link href="https://vuepress-theme-hope-demo.mrhope.site/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://www.kaokei.com/rss.xml" rel="self" type="application/rss+xml"/>
     <title>kaokei's blog</title>
-    <link>https://vuepress-theme-hope-demo.mrhope.site/</link>
+    <link>https://www.kaokei.com/</link>
     <description></description>
     <language>zh-CN</language>
-    <pubDate>Sun, 28 Nov 2021 09:07:23 GMT</pubDate>
-    <lastBuildDate>Sun, 28 Nov 2021 09:07:23 GMT</lastBuildDate>
+    <pubDate>Mon, 29 Nov 2021 06:24:51 GMT</pubDate>
+    <lastBuildDate>Mon, 29 Nov 2021 06:24:51 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <copyright>Copyright by Mr.Kaokei</copyright>
+    <copyright>Copyright by kaokei</copyright>
     <category>Guide</category>
     <category>使用指南</category>
     <item>
       <title>Component disabled</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/en/guide/disable/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/en/guide/disable/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Component disabled</source>
+      <link>https://www.kaokei.com/en/guide/disable/</link>
+      <guid>https://www.kaokei.com/en/guide/disable/</guid>
+      <source url="https://www.kaokei.com/rss.xml">Component disabled</source>
       <description>&amp;lt;p&amp;gt;You can disable some functions on the page by setting the Frontmatter of the page.&amp;lt;/p&amp;gt;
 </description>
       <category>Guide</category>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can disable some functions on the page by setting the Frontmatter of the page.</p>
 
 <p>These should be disabled on this page:</p>
@@ -42,11 +42,11 @@
     </item>
     <item>
       <title>Encryption article</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/en/guide/encrypt/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/en/guide/encrypt/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Encryption article</source>
+      <link>https://www.kaokei.com/en/guide/encrypt/</link>
+      <guid>https://www.kaokei.com/en/guide/encrypt/</guid>
+      <source url="https://www.kaokei.com/rss.xml">Encryption article</source>
       <category>Guide</category>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="encryption-article"> Encryption article</h1>
 <p>The actual article content.</p>
 <p>Paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text.</p>
@@ -55,13 +55,13 @@
     </item>
     <item>
       <title>Markdown Enhance</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/en/guide/markdown/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/en/guide/markdown/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Markdown Enhance</source>
+      <link>https://www.kaokei.com/en/guide/markdown/</link>
+      <guid>https://www.kaokei.com/en/guide/markdown/</guid>
+      <source url="https://www.kaokei.com/rss.xml">Markdown Enhance</source>
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; enables more syntax in Markdown via the built-in &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt; plugin.&amp;lt;/p&amp;gt;
 </description>
       <category>Guide</category>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> enables more syntax in Markdown via the built-in <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a> plugin.</p>
 
 <h2 id="enable-all"> Enable all</h2>
@@ -170,7 +170,7 @@ cond(no)->e</span>
 <li><a href="https://vuepress-theme-hope.github.io/guide/markdown/mermaid/" target="_blank" rel="noopener noreferrer">View Detail</a></li>
 </ul>
 <h3 id="tex"> Tex</h3>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:2.40003em;vertical-align:-0.95003em;"></span><span><span></span><span><span><span><span style="height:1.37144em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span style="margin-right:0.05556em;">∂</span><span><span style="margin-right:0.03588em;">ω</span><span><span><span><span style="height:0.590392em;"><span style="top:-2.9890000000000003em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.05556em;">∂</span><span><span><span><span style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="margin-right:0.16666666666666666em;"></span><span><span style="top:0em;"><span>(</span></span><span><span></span><span><span><span><span style="height:1.341392em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span style="margin-right:0.03588em;">ω</span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03588em;">y</span><span><span><span><span style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.03588em;">ω</span></span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="top:0em;"><span>)</span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:3.027669em;vertical-align:-1.277669em;"></span><span><span style="top:0em;"><span>(</span></span><span><span></span><span><span><span><span style="height:1.341392em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span style="margin-right:0.03588em;">ω</span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03588em;">y</span><span><span><span><span style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.03588em;">ω</span></span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="top:0em;"><span>)</span></span></span><span style="margin-right:0.16666666666666666em;"></span><span><span style="top:0em;"><span>{</span></span><span>(</span><span>lo<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.03588em;">y</span><span><span>)</span><span><span><span><span style="height:0.7143919999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span><span><span><span><span style="height:1.6513970000000002em;"><span style="top:-1.872331em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>i</span><span>=</span><span>1</span></span></span></span><span style="top:-3.050005em;"><span style="height:3.05em;"></span><span><span>∑</span></span></span><span style="top:-4.3000050000000005em;margin-left:0em;"><span style="height:3.05em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:1.277669em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span><span></span><span><span><span><span style="height:1.5016639999999999em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03588em;">ω</span><span><span><span><span style="height:0.750664em;"><span style="top:-2.9890000000000003em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span>(</span><span>−</span><span>1</span><span><span>)</span><span><span><span><span style="height:0.824664em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span></span></span></span></span><span style="margin-right:0.02778em;">r</span><span style="margin-right:0.16666666666666666em;"></span><span>⋯</span><span style="margin-right:0.16666666666666666em;"></span><span>(</span><span style="margin-right:0.02778em;">r</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span><span>i</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span><span>1</span><span>)</span><span>(</span><span>lo<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.03588em;">y</span><span><span>)</span><span><span><span><span style="height:0.824664em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.02778em;">r</span><span>−</span><span>i</span></span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="top:0em;"><span>}</span></span></span></span></span></span></span></p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:2.4em;vertical-align:-0.95em;"></span><span><span></span><span><span><span><span style="height:1.3714em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span style="margin-right:0.05556em;">∂</span><span><span style="margin-right:0.03588em;">ω</span><span><span><span><span style="height:0.5904em;"><span style="top:-2.989em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.05556em;">∂</span><span><span><span><span style="height:0.6644em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="margin-right:0.1667em;"></span><span><span style="top:0em;"><span>(</span></span><span><span></span><span><span><span><span style="height:1.3414em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span style="margin-right:0.03588em;">ω</span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03588em;">y</span><span><span><span><span style="height:0.6644em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.03588em;">ω</span></span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="top:0em;"><span>)</span></span></span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:3.0277em;vertical-align:-1.2777em;"></span><span><span style="top:0em;"><span>(</span></span><span><span></span><span><span><span><span style="height:1.3414em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span style="margin-right:0.03588em;">ω</span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03588em;">y</span><span><span><span><span style="height:0.6644em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.03588em;">ω</span></span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="top:0em;"><span>)</span></span></span><span style="margin-right:0.1667em;"></span><span><span style="top:0em;"><span>{</span></span><span>(</span><span>lo<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.1667em;"></span><span style="margin-right:0.03588em;">y</span><span><span>)</span><span><span><span><span style="height:0.7144em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span><span style="margin-right:0.2222em;"></span><span>+</span><span style="margin-right:0.2222em;"></span><span><span><span><span style="height:1.6514em;"><span style="top:-1.8723em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>i</span><span>=</span><span>1</span></span></span></span><span style="top:-3.05em;"><span style="height:3.05em;"></span><span><span>∑</span></span></span><span style="top:-4.3em;margin-left:0em;"><span style="height:3.05em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:1.2777em;"><span></span></span></span></span></span><span style="margin-right:0.1667em;"></span><span><span></span><span><span><span><span style="height:1.5017em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03588em;">ω</span><span><span><span><span style="height:0.7507em;"><span style="top:-2.989em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span>(</span><span>−</span><span>1</span><span><span>)</span><span><span><span><span style="height:0.8247em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span></span></span></span></span><span style="margin-right:0.02778em;">r</span><span style="margin-right:0.1667em;"></span><span>⋯</span><span style="margin-right:0.1667em;"></span><span>(</span><span style="margin-right:0.02778em;">r</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span><span>i</span><span style="margin-right:0.2222em;"></span><span>+</span><span style="margin-right:0.2222em;"></span><span>1</span><span>)</span><span>(</span><span>lo<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.1667em;"></span><span style="margin-right:0.03588em;">y</span><span><span>)</span><span><span><span><span style="height:0.8247em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.02778em;">r</span><span>−</span><span>i</span></span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="top:0em;"><span>}</span></span></span></span></span></span></span></p>
 <details><summary>Code</summary>
 <div><pre><code>$$
 \frac {\partial^r} {\partial \omega^r} \left(\frac {y^{\omega}} {\omega}\right)
@@ -513,9 +513,9 @@ A custom details container
     </item>
     <item>
       <title>page config</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/en/guide/page/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/en/guide/page/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">page config</source>
+      <link>https://www.kaokei.com/en/guide/page/</link>
+      <guid>https://www.kaokei.com/en/guide/page/</guid>
+      <source url="https://www.kaokei.com/rss.xml">page config</source>
       <category>Guide</category>
       <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="page-information"> Page information</h2>
@@ -562,11 +562,11 @@ A custom details container
     </item>
     <item>
       <title>Guides</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/en/guide/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/en/guide/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Guides</source>
+      <link>https://www.kaokei.com/en/guide/</link>
+      <guid>https://www.kaokei.com/en/guide/</guid>
+      <source url="https://www.kaokei.com/rss.xml">Guides</source>
       <category>Guide</category>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="guides"> Guides</h1>
 <ul>
 <li>
@@ -586,10 +586,10 @@ A custom details container
     </item>
     <item>
       <title>Project home</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/en/home/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/en/home/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Project home</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/en/home/</link>
+      <guid>https://www.kaokei.com/en/home/</guid>
+      <source url="https://www.kaokei.com/rss.xml">Project home</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<p>This is an example of a normal homepage. You can place your main content here.</p>
 <p>To use this layout, you need to set <code>home: true</code> in the page front matter.</p>
 <p>For related descriptions of configuration items, please see <a href="https://vuepress-theme-hope.github.io/guide/layout/home/" target="_blank" rel="noopener noreferrer">Project HomePage Layout Config</a>.</p>
@@ -597,20 +597,20 @@ A custom details container
     </item>
     <item>
       <title>Intro Page</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/en/intro/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/en/intro/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Intro Page</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/en/intro/</link>
+      <guid>https://www.kaokei.com/en/intro/</guid>
+      <source url="https://www.kaokei.com/rss.xml">Intro Page</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>Custom Layout</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/en/layout/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/en/layout/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Custom Layout</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/en/layout/</link>
+      <guid>https://www.kaokei.com/en/layout/</guid>
+      <source url="https://www.kaokei.com/rss.xml">Custom Layout</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -632,10 +632,10 @@ A custom details container
     </item>
     <item>
       <title>Blog Home</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/en/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/en/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Blog Home</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/en/</link>
+      <guid>https://www.kaokei.com/en/</guid>
+      <source url="https://www.kaokei.com/rss.xml">Blog Home</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<p>This is a blog home page.</p>
 <p>To use this layout, you should set both <code>blog: true</code> and <code>home: true</code> in the page front matter.</p>
 <p>For related configuration docs, please see <a href="https://vuepress-theme-hope.github.io/guide/blog/home/" target="_blank" rel="noopener noreferrer">blog homepage</a></p>
@@ -643,23 +643,23 @@ A custom details container
     </item>
     <item>
       <title>Slide page</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/en/slides/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/en/slides/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Slide page</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/en/slides/</link>
+      <guid>https://www.kaokei.com/en/slides/</guid>
+      <source url="https://www.kaokei.com/rss.xml">Slide page</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
-      <enclosure url="https://vuepress-theme-hope-demo.mrhope.site/logo.svg" type="image/svg+xml"/>
+      <enclosure url="https://www.kaokei.com/logo.svg" type="image/svg+xml"/>
     </item>
     <item>
       <title>组件禁用</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/guide/disable/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/guide/disable/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">组件禁用</source>
+      <link>https://www.kaokei.com/guide/disable/</link>
+      <guid>https://www.kaokei.com/guide/disable/</guid>
+      <source url="https://www.kaokei.com/rss.xml">组件禁用</source>
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -680,11 +680,11 @@ A custom details container
     </item>
     <item>
       <title>密码加密的文章</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/guide/encrypt/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/guide/encrypt/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">密码加密的文章</source>
+      <link>https://www.kaokei.com/guide/encrypt/</link>
+      <guid>https://www.kaokei.com/guide/encrypt/</guid>
+      <source url="https://www.kaokei.com/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -693,13 +693,13 @@ A custom details container
     </item>
     <item>
       <title>Markdown 增强</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/guide/markdown/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/guide/markdown/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Markdown 增强</source>
+      <link>https://www.kaokei.com/guide/markdown/</link>
+      <guid>https://www.kaokei.com/guide/markdown/</guid>
+      <source url="https://www.kaokei.com/rss.xml">Markdown 增强</source>
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -808,7 +808,7 @@ cond(no)->e</span>
 <li><a href="https://vuepress-theme-hope.github.io/zh/guide/markdown/mermaid/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
 </ul>
 <h3 id="tex-语法"> Tex 语法</h3>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:2.40003em;vertical-align:-0.95003em;"></span><span><span></span><span><span><span><span style="height:1.37144em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span style="margin-right:0.05556em;">∂</span><span><span style="margin-right:0.03588em;">ω</span><span><span><span><span style="height:0.590392em;"><span style="top:-2.9890000000000003em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.05556em;">∂</span><span><span><span><span style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="margin-right:0.16666666666666666em;"></span><span><span style="top:0em;"><span>(</span></span><span><span></span><span><span><span><span style="height:1.341392em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span style="margin-right:0.03588em;">ω</span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03588em;">y</span><span><span><span><span style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.03588em;">ω</span></span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="top:0em;"><span>)</span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:3.027669em;vertical-align:-1.277669em;"></span><span><span style="top:0em;"><span>(</span></span><span><span></span><span><span><span><span style="height:1.341392em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span style="margin-right:0.03588em;">ω</span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03588em;">y</span><span><span><span><span style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.03588em;">ω</span></span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="top:0em;"><span>)</span></span></span><span style="margin-right:0.16666666666666666em;"></span><span><span style="top:0em;"><span>{</span></span><span>(</span><span>lo<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.03588em;">y</span><span><span>)</span><span><span><span><span style="height:0.7143919999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span><span><span><span><span style="height:1.6513970000000002em;"><span style="top:-1.872331em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>i</span><span>=</span><span>1</span></span></span></span><span style="top:-3.050005em;"><span style="height:3.05em;"></span><span><span>∑</span></span></span><span style="top:-4.3000050000000005em;margin-left:0em;"><span style="height:3.05em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:1.277669em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span><span></span><span><span><span><span style="height:1.5016639999999999em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03588em;">ω</span><span><span><span><span style="height:0.750664em;"><span style="top:-2.9890000000000003em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span>(</span><span>−</span><span>1</span><span><span>)</span><span><span><span><span style="height:0.824664em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span></span></span></span></span><span style="margin-right:0.02778em;">r</span><span style="margin-right:0.16666666666666666em;"></span><span>⋯</span><span style="margin-right:0.16666666666666666em;"></span><span>(</span><span style="margin-right:0.02778em;">r</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span><span>i</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span><span>1</span><span>)</span><span>(</span><span>lo<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.03588em;">y</span><span><span>)</span><span><span><span><span style="height:0.824664em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.02778em;">r</span><span>−</span><span>i</span></span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="top:0em;"><span>}</span></span></span></span></span></span></span></p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:2.4em;vertical-align:-0.95em;"></span><span><span></span><span><span><span><span style="height:1.3714em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span style="margin-right:0.05556em;">∂</span><span><span style="margin-right:0.03588em;">ω</span><span><span><span><span style="height:0.5904em;"><span style="top:-2.989em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.05556em;">∂</span><span><span><span><span style="height:0.6644em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="margin-right:0.1667em;"></span><span><span style="top:0em;"><span>(</span></span><span><span></span><span><span><span><span style="height:1.3414em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span style="margin-right:0.03588em;">ω</span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03588em;">y</span><span><span><span><span style="height:0.6644em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.03588em;">ω</span></span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="top:0em;"><span>)</span></span></span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:3.0277em;vertical-align:-1.2777em;"></span><span><span style="top:0em;"><span>(</span></span><span><span></span><span><span><span><span style="height:1.3414em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span style="margin-right:0.03588em;">ω</span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03588em;">y</span><span><span><span><span style="height:0.6644em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.03588em;">ω</span></span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="top:0em;"><span>)</span></span></span><span style="margin-right:0.1667em;"></span><span><span style="top:0em;"><span>{</span></span><span>(</span><span>lo<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.1667em;"></span><span style="margin-right:0.03588em;">y</span><span><span>)</span><span><span><span><span style="height:0.7144em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span><span style="margin-right:0.2222em;"></span><span>+</span><span style="margin-right:0.2222em;"></span><span><span><span><span style="height:1.6514em;"><span style="top:-1.8723em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>i</span><span>=</span><span>1</span></span></span></span><span style="top:-3.05em;"><span style="height:3.05em;"></span><span><span>∑</span></span></span><span style="top:-4.3em;margin-left:0em;"><span style="height:3.05em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:1.2777em;"><span></span></span></span></span></span><span style="margin-right:0.1667em;"></span><span><span></span><span><span><span><span style="height:1.5017em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03588em;">ω</span><span><span><span><span style="height:0.7507em;"><span style="top:-2.989em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span>(</span><span>−</span><span>1</span><span><span>)</span><span><span><span><span style="height:0.8247em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span></span></span></span></span><span style="margin-right:0.02778em;">r</span><span style="margin-right:0.1667em;"></span><span>⋯</span><span style="margin-right:0.1667em;"></span><span>(</span><span style="margin-right:0.02778em;">r</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span><span>i</span><span style="margin-right:0.2222em;"></span><span>+</span><span style="margin-right:0.2222em;"></span><span>1</span><span>)</span><span>(</span><span>lo<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.1667em;"></span><span style="margin-right:0.03588em;">y</span><span><span>)</span><span><span><span><span style="height:0.8247em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.02778em;">r</span><span>−</span><span>i</span></span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="top:0em;"><span>}</span></span></span></span></span></span></span></p>
 <details><summary>代码</summary>
 <div><pre><code>$$
 \frac {\partial^r} {\partial \omega^r} \left(\frac {y^{\omega}} {\omega}\right)
@@ -1151,9 +1151,9 @@ $$
     </item>
     <item>
       <title>页面配置</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/guide/page/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/guide/page/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">页面配置</source>
+      <link>https://www.kaokei.com/guide/page/</link>
+      <guid>https://www.kaokei.com/guide/page/</guid>
+      <source url="https://www.kaokei.com/rss.xml">页面配置</source>
       <category>使用指南</category>
       <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="页面信息"> 页面信息</h2>
@@ -1200,11 +1200,11 @@ $$
     </item>
     <item>
       <title>主要功能与配置演示</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/guide/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/guide/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">主要功能与配置演示</source>
+      <link>https://www.kaokei.com/guide/</link>
+      <guid>https://www.kaokei.com/guide/</guid>
+      <source url="https://www.kaokei.com/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -1224,10 +1224,10 @@ $$
     </item>
     <item>
       <title>项目主页</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/home/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/home/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">项目主页</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/home/</link>
+      <guid>https://www.kaokei.com/home/</guid>
+      <source url="https://www.kaokei.com/rss.xml">项目主页</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -1235,20 +1235,20 @@ $$
     </item>
     <item>
       <title>介绍页面</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/intro/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/intro/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">介绍页面</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/intro/</link>
+      <guid>https://www.kaokei.com/intro/</guid>
+      <source url="https://www.kaokei.com/rss.xml">介绍页面</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="介绍页面"> 介绍页面</h1>
 <p>这里放一些介绍自己的信息-001。</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>自定义布局</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/layout/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/layout/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">自定义布局</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/layout/</link>
+      <guid>https://www.kaokei.com/layout/</guid>
+      <source url="https://www.kaokei.com/rss.xml">自定义布局</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <div><p>注意</p>
 <p>此处仅仅是一个演示，你应该自行根据需求添加样式。</p>
@@ -1270,10 +1270,10 @@ $$
     </item>
     <item>
       <title>介绍页面</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/note/git/guide/note1/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/note/git/guide/note1/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">介绍页面</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/note/git/guide/note1/</link>
+      <guid>https://www.kaokei.com/note/git/guide/note1/</guid>
+      <source url="https://www.kaokei.com/rss.xml">介绍页面</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="介绍页面"> 介绍页面</h1>
 <p>guide use-git-service 001</p>
 <p>这里放一些介绍自己的信息-001。</p>
@@ -1281,10 +1281,10 @@ $$
     </item>
     <item>
       <title>介绍页面</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/note/git/guide/note2/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/note/git/guide/note2/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">介绍页面</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/note/git/guide/note2/</link>
+      <guid>https://www.kaokei.com/note/git/guide/note2/</guid>
+      <source url="https://www.kaokei.com/rss.xml">介绍页面</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="介绍页面"> 介绍页面</h1>
 <p>guide use-git-service 002</p>
 <p>这里放一些介绍自己的信息-001。</p>
@@ -1292,11 +1292,11 @@ $$
     </item>
     <item>
       <title>主要功能与配置演示</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/note/git/guide/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/note/git/guide/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">主要功能与配置演示</source>
+      <link>https://www.kaokei.com/note/git/guide/</link>
+      <guid>https://www.kaokei.com/note/git/guide/</guid>
+      <source url="https://www.kaokei.com/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -1310,10 +1310,10 @@ $$
     </item>
     <item>
       <title>介绍页面</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/note/git/note1/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/note/git/note1/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">介绍页面</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/note/git/note1/</link>
+      <guid>https://www.kaokei.com/note/git/note1/</guid>
+      <source url="https://www.kaokei.com/rss.xml">介绍页面</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="介绍页面"> 介绍页面</h1>
 <p>git 001</p>
 <p>这里放一些介绍自己的信息-001。</p>
@@ -1321,10 +1321,10 @@ $$
     </item>
     <item>
       <title>介绍页面</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/note/git/note2/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/note/git/note2/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">介绍页面</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/note/git/note2/</link>
+      <guid>https://www.kaokei.com/note/git/note2/</guid>
+      <source url="https://www.kaokei.com/rss.xml">介绍页面</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="介绍页面"> 介绍页面</h1>
 <p>git 002</p>
 <p>这里放一些介绍自己的信息-001。</p>
@@ -1332,11 +1332,11 @@ $$
     </item>
     <item>
       <title>主要功能与配置演示</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/note/git/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/note/git/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">主要功能与配置演示</source>
+      <link>https://www.kaokei.com/note/git/</link>
+      <guid>https://www.kaokei.com/note/git/</guid>
+      <source url="https://www.kaokei.com/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -1350,10 +1350,10 @@ $$
     </item>
     <item>
       <title>介绍页面</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/note/guide/note1/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/note/guide/note1/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">介绍页面</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/note/guide/note1/</link>
+      <guid>https://www.kaokei.com/note/guide/note1/</guid>
+      <source url="https://www.kaokei.com/rss.xml">介绍页面</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="介绍页面"> 介绍页面</h1>
 <p>note guide use-vue-service 001</p>
 <p>这里放一些介绍自己的信息-001。</p>
@@ -1361,10 +1361,10 @@ $$
     </item>
     <item>
       <title>介绍页面</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/note/guide/note2/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/note/guide/note2/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">介绍页面</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/note/guide/note2/</link>
+      <guid>https://www.kaokei.com/note/guide/note2/</guid>
+      <source url="https://www.kaokei.com/rss.xml">介绍页面</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="介绍页面"> 介绍页面</h1>
 <p>note guide use-vue-service 002</p>
 <p>这里放一些介绍自己的信息-001。</p>
@@ -1372,11 +1372,11 @@ $$
     </item>
     <item>
       <title>主要功能与配置演示</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/note/guide/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/note/guide/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">主要功能与配置演示</source>
+      <link>https://www.kaokei.com/note/guide/</link>
+      <guid>https://www.kaokei.com/note/guide/</guid>
+      <source url="https://www.kaokei.com/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -1390,10 +1390,10 @@ $$
     </item>
     <item>
       <title>介绍页面</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/note/linux/guide/note1/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/note/linux/guide/note1/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">介绍页面</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/note/linux/guide/note1/</link>
+      <guid>https://www.kaokei.com/note/linux/guide/note1/</guid>
+      <source url="https://www.kaokei.com/rss.xml">介绍页面</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="介绍页面"> 介绍页面</h1>
 <p>guide use-linux-service 001</p>
 <p>这里放一些介绍自己的信息-001。</p>
@@ -1401,10 +1401,10 @@ $$
     </item>
     <item>
       <title>介绍页面</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/note/linux/guide/note2/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/note/linux/guide/note2/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">介绍页面</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/note/linux/guide/note2/</link>
+      <guid>https://www.kaokei.com/note/linux/guide/note2/</guid>
+      <source url="https://www.kaokei.com/rss.xml">介绍页面</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="介绍页面"> 介绍页面</h1>
 <p>guide use-linux-service 002</p>
 <p>这里放一些介绍自己的信息-001。</p>
@@ -1412,11 +1412,11 @@ $$
     </item>
     <item>
       <title>主要功能与配置演示</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/note/linux/guide/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/note/linux/guide/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">主要功能与配置演示</source>
+      <link>https://www.kaokei.com/note/linux/guide/</link>
+      <guid>https://www.kaokei.com/note/linux/guide/</guid>
+      <source url="https://www.kaokei.com/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -1430,10 +1430,10 @@ $$
     </item>
     <item>
       <title>介绍页面</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/note/linux/note1/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/note/linux/note1/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">介绍页面</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/note/linux/note1/</link>
+      <guid>https://www.kaokei.com/note/linux/note1/</guid>
+      <source url="https://www.kaokei.com/rss.xml">介绍页面</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="介绍页面"> 介绍页面</h1>
 <p>linux 001</p>
 <p>这里放一些介绍自己的信息-001。</p>
@@ -1441,10 +1441,10 @@ $$
     </item>
     <item>
       <title>介绍页面</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/note/linux/note2/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/note/linux/note2/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">介绍页面</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/note/linux/note2/</link>
+      <guid>https://www.kaokei.com/note/linux/note2/</guid>
+      <source url="https://www.kaokei.com/rss.xml">介绍页面</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="介绍页面"> 介绍页面</h1>
 <p>linux 002</p>
 <p>这里放一些介绍自己的信息-001。</p>
@@ -1452,11 +1452,11 @@ $$
     </item>
     <item>
       <title>主要功能与配置演示</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/note/linux/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/note/linux/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">主要功能与配置演示</source>
+      <link>https://www.kaokei.com/note/linux/</link>
+      <guid>https://www.kaokei.com/note/linux/</guid>
+      <source url="https://www.kaokei.com/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -1470,10 +1470,10 @@ $$
     </item>
     <item>
       <title>介绍页面</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/note/note1/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/note/note1/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">介绍页面</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/note/note1/</link>
+      <guid>https://www.kaokei.com/note/note1/</guid>
+      <source url="https://www.kaokei.com/rss.xml">介绍页面</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="介绍页面"> 介绍页面</h1>
 <p>随笔 001</p>
 <p>这里放一些介绍自己的信息-001。</p>
@@ -1481,10 +1481,10 @@ $$
     </item>
     <item>
       <title>介绍页面</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/note/note2/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/note/note2/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">介绍页面</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/note/note2/</link>
+      <guid>https://www.kaokei.com/note/note2/</guid>
+      <source url="https://www.kaokei.com/rss.xml">介绍页面</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="介绍页面"> 介绍页面</h1>
 <p>随笔 002</p>
 <p>这里放一些介绍自己的信息-001。</p>
@@ -1492,11 +1492,11 @@ $$
     </item>
     <item>
       <title>主要功能与配置演示</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/note/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/note/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">主要功能与配置演示</source>
+      <link>https://www.kaokei.com/note/</link>
+      <guid>https://www.kaokei.com/note/</guid>
+      <source url="https://www.kaokei.com/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -1510,10 +1510,10 @@ $$
     </item>
     <item>
       <title>介绍页面</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/project/use-react-service/guide/note1/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/project/use-react-service/guide/note1/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">介绍页面</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/project/use-react-service/guide/note1/</link>
+      <guid>https://www.kaokei.com/project/use-react-service/guide/note1/</guid>
+      <source url="https://www.kaokei.com/rss.xml">介绍页面</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="介绍页面"> 介绍页面</h1>
 <p>guide use-react-service 001</p>
 <p>这里放一些介绍自己的信息-001。</p>
@@ -1521,10 +1521,10 @@ $$
     </item>
     <item>
       <title>介绍页面</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/project/use-react-service/guide/note2/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/project/use-react-service/guide/note2/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">介绍页面</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/project/use-react-service/guide/note2/</link>
+      <guid>https://www.kaokei.com/project/use-react-service/guide/note2/</guid>
+      <source url="https://www.kaokei.com/rss.xml">介绍页面</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="介绍页面"> 介绍页面</h1>
 <p>guide use-react-service 002</p>
 <p>这里放一些介绍自己的信息-001。</p>
@@ -1532,11 +1532,11 @@ $$
     </item>
     <item>
       <title>主要功能与配置演示</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/project/use-react-service/guide/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/project/use-react-service/guide/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">主要功能与配置演示</source>
+      <link>https://www.kaokei.com/project/use-react-service/guide/</link>
+      <guid>https://www.kaokei.com/project/use-react-service/guide/</guid>
+      <source url="https://www.kaokei.com/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -1550,10 +1550,10 @@ $$
     </item>
     <item>
       <title>介绍页面</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/project/use-react-service/note1/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/project/use-react-service/note1/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">介绍页面</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/project/use-react-service/note1/</link>
+      <guid>https://www.kaokei.com/project/use-react-service/note1/</guid>
+      <source url="https://www.kaokei.com/rss.xml">介绍页面</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="介绍页面"> 介绍页面</h1>
 <p>use-react-service 001</p>
 <p>这里放一些介绍自己的信息-001。</p>
@@ -1561,10 +1561,10 @@ $$
     </item>
     <item>
       <title>介绍页面</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/project/use-react-service/note2/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/project/use-react-service/note2/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">介绍页面</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/project/use-react-service/note2/</link>
+      <guid>https://www.kaokei.com/project/use-react-service/note2/</guid>
+      <source url="https://www.kaokei.com/rss.xml">介绍页面</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="介绍页面"> 介绍页面</h1>
 <p>use-react-service 002</p>
 <p>这里放一些介绍自己的信息-001。</p>
@@ -1572,10 +1572,10 @@ $$
     </item>
     <item>
       <title>项目主页</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/project/use-react-service/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/project/use-react-service/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">项目主页</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/project/use-react-service/</link>
+      <guid>https://www.kaokei.com/project/use-react-service/</guid>
+      <source url="https://www.kaokei.com/rss.xml">项目主页</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -1583,10 +1583,10 @@ $$
     </item>
     <item>
       <title>API 文档</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/project/use-vue-service/api/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/project/use-vue-service/api/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">API 文档</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/project/use-vue-service/api/</link>
+      <guid>https://www.kaokei.com/project/use-vue-service/api/</guid>
+      <source url="https://www.kaokei.com/rss.xml">API 文档</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="简介"> 简介</h2>
 <p>当前一共有 8 个 API，具体如下：</p>
 <h4 id="提供依赖注入能力"> 提供依赖注入能力</h4>
@@ -1841,10 +1841,10 @@ $$
     </item>
     <item>
       <title>最佳实践指导</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/project/use-vue-service/articles/best-practices/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/project/use-vue-service/articles/best-practices/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">最佳实践指导</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/project/use-vue-service/articles/best-practices/</link>
+      <guid>https://www.kaokei.com/project/use-vue-service/articles/best-practices/</guid>
+      <source url="https://www.kaokei.com/rss.xml">最佳实践指导</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="最佳实践"> 最佳实践</h2>
 <p>declareProviders 一定要在 setup 的顶部使用。如果先调用了 useService，然后再调用 declareProviders，就会导致获取的服务可能不是我们期望的。</p>
 <p>虽然基于服务的依赖注入用起来很方便，但是也不应该滥用，还是需要考虑使用场景。我建议在容器组件中使用服务是比较适合的。但是在受控组件中还是推荐使用 props/emit 的方式进行交互。</p>
@@ -1940,10 +1940,10 @@ app2.use(本库);
     </item>
     <item>
       <title>组件间通信方式</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/project/use-vue-service/articles/communication-between-components/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/project/use-vue-service/articles/communication-between-components/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">组件间通信方式</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/project/use-vue-service/articles/communication-between-components/</link>
+      <guid>https://www.kaokei.com/project/use-vue-service/articles/communication-between-components/</guid>
+      <source url="https://www.kaokei.com/rss.xml">组件间通信方式</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="组件间通信方式"> 组件间通信方式</h1>
 <h2 id="父子组件"> 父子组件</h2>
 <p>父组件通过 props 传递数据给子组件
@@ -1982,10 +1982,10 @@ bus.$emit(&#39;eventName&#39;);
     </item>
     <item>
       <title>组件与服务</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/project/use-vue-service/articles/component-and-service/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/project/use-vue-service/articles/component-and-service/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">组件与服务</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/project/use-vue-service/articles/component-and-service/</link>
+      <guid>https://www.kaokei.com/project/use-vue-service/articles/component-and-service/</guid>
+      <source url="https://www.kaokei.com/rss.xml">组件与服务</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="option-组件-类组件和服务的关系"> option 组件，类组件和服务的关系</h2>
 <p>option 组件本身就是一个对象，这个对象预定义了一套属性，比如 data、methods、components 等。</p>
 <p>类组件看起来像是一个类，只不过是把一部分 option 组件中的属性定义为类的成员属性。另一部分不支持的属性还是需要借助<code>vue-class-component</code>这个库来支持。比如 watch 属性，只能定义在<code>@Options</code>这个装饰器中。总之看上去会有点不伦不类。
@@ -2037,10 +2037,10 @@ bus.$emit(&#39;eventName&#39;);
     </item>
     <item>
       <title>依赖注入</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/project/use-vue-service/articles/dependency-injection/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/project/use-vue-service/articles/dependency-injection/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">依赖注入</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/project/use-vue-service/articles/dependency-injection/</link>
+      <guid>https://www.kaokei.com/project/use-vue-service/articles/dependency-injection/</guid>
+      <source url="https://www.kaokei.com/rss.xml">依赖注入</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="什么是依赖注入"> 什么是依赖注入</h2>
 <p>关于依赖注入的概念可以参考 Angular 的文档，<a href="https://angular.cn/guide/dependency-injection" target="_blank" rel="noopener noreferrer">Angular 中的依赖注入</a>。</p>
 <p>首先不得不提到的一点是什么是依赖注入，我在网上搜索了很多文章，专业术语也有很多，看的我迷迷糊糊的。我尝试记录一下我自己的理解。</p>
@@ -2162,14 +2162,14 @@ childInjector<span>.</span><span>defineKeyValue</span><span>(</span><span>"token
 <p>服务创建机制也是必须的，因为我们可能是没有办法只从服务标识符中推导出如何创建一个服务的，比如我们没有办法准确区分一个类和一个普通函数，也就没有办法知道怎么去创建这个服务，是应该 new 这个函数，还是直接调用这个函数。</p>
 <p>当我们指定<code>useClass</code>时，显然是想要通过类的实例化来创建一个服务，虽然我们可以直接把服务标识符来当作类来使用，但是我们仍然支持<code>useClass:AnotherService</code>，从而达到实际提供服务的类和服务标识符的类的解耦。</p>
 ]]></content:encoded>
-      <enclosure url="https://vuepress-theme-hope-demo.mrhope.site/assets/image/project/demo.png" type="image/png"/>
+      <enclosure url="https://www.kaokei.com/assets/image/project/demo.png" type="image/png"/>
     </item>
     <item>
       <title>前端常见库的理解</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/project/use-vue-service/articles/frame-analysis/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/project/use-vue-service/articles/frame-analysis/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">前端常见库的理解</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/project/use-vue-service/articles/frame-analysis/</link>
+      <guid>https://www.kaokei.com/project/use-vue-service/articles/frame-analysis/</guid>
+      <source url="https://www.kaokei.com/rss.xml">前端常见库的理解</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="常见库的理解"> 常见库的理解</h2>
 <p>简单记录一下常见库的个人理解，把这些库放在一起对比后可以比较方便的知道各个库的不同，以及凸显 <code>@kaokei/use-vue-service</code> 的差异点和必要性。</p>
 <p>可以从这几个方面来分析库的不同点。</p>
@@ -2670,10 +2670,10 @@ xxx 场景下，理论上 vue 的效率要比 react 高。</p>
     </item>
     <item>
       <title>前端框架浅显对比</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/project/use-vue-service/articles/framework-comparison/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/project/use-vue-service/articles/framework-comparison/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">前端框架浅显对比</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/project/use-vue-service/articles/framework-comparison/</link>
+      <guid>https://www.kaokei.com/project/use-vue-service/articles/framework-comparison/</guid>
+      <source url="https://www.kaokei.com/rss.xml">前端框架浅显对比</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="vue、react-以及-angular-对比"> vue、react 以及 Angular 对比</h2>
 <p>我第一个接触的框架是 vue，在 vue 之前我用的是 jquery。</p>
 <p>这里可以先对比一下 jquery 是如何写代码的。其实关键还是数据和视图的同步工作。</p>
@@ -2854,10 +2854,10 @@ combineReducers</p>
     </item>
     <item>
       <title>前端发展各个阶段</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/project/use-vue-service/articles/frontend-stage/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/project/use-vue-service/articles/frontend-stage/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">前端发展各个阶段</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/project/use-vue-service/articles/frontend-stage/</link>
+      <guid>https://www.kaokei.com/project/use-vue-service/articles/frontend-stage/</guid>
+      <source url="https://www.kaokei.com/rss.xml">前端发展各个阶段</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="前端的-4-个阶段"> 前端的 4 个阶段</h2>
 <p><img src="/assets/image/project/history.png" alt="前端的4个阶段" /></p>
 <h2 id="jquery-阶段"> jquery 阶段</h2>
@@ -2888,14 +2888,14 @@ combineReducers</p>
 <p>回过头来看，可以清楚的看到 hooks 时代，组件是强制依赖 hooks 的，但是服务时代，则需要通过服务这个概念来间接的使用 hooks，从而可以方便的实现跨组件通信以及状态管理。</p>
 <p>很久之前就看过一句话，react 和 vue 迟早有一天会变成 angular。</p>
 ]]></content:encoded>
-      <enclosure url="https://vuepress-theme-hope-demo.mrhope.site/assets/image/project/history.png" type="image/png"/>
+      <enclosure url="https://www.kaokei.com/assets/image/project/history.png" type="image/png"/>
     </item>
     <item>
       <title>依赖注入</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/project/use-vue-service/articles/reactive-analysis/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/project/use-vue-service/articles/reactive-analysis/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">依赖注入</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/project/use-vue-service/articles/reactive-analysis/</link>
+      <guid>https://www.kaokei.com/project/use-vue-service/articles/reactive-analysis/</guid>
+      <source url="https://www.kaokei.com/rss.xml">依赖注入</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="doux"> doux</h2>
 <p>该库似乎已经被删除了，但是历史代码还存在，代码实现比较简单，非常方便入门分析。</p>
 <p>observable 相当于 reactive
@@ -3104,19 +3104,19 @@ vue-next 中的 render 函数默认就会收集依赖的，而且会把 render �
     </item>
     <item>
       <title>参考文章</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/project/use-vue-service/articles/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/project/use-vue-service/articles/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">参考文章</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/project/use-vue-service/articles/</link>
+      <guid>https://www.kaokei.com/project/use-vue-service/articles/</guid>
+      <source url="https://www.kaokei.com/rss.xml">参考文章</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<p>这里记录一些我对前端某些知识点的理解</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>进阶教程</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/project/use-vue-service/guide/advance/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/project/use-vue-service/guide/advance/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">进阶教程</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/project/use-vue-service/guide/advance/</link>
+      <guid>https://www.kaokei.com/project/use-vue-service/guide/advance/</guid>
+      <source url="https://www.kaokei.com/rss.xml">进阶教程</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="简介"> 简介</h2>
 <p>本教程继续介绍下面 2 个 api，可以用来支持更加复杂场景的需求。</p>
 <ul>
@@ -3336,10 +3336,10 @@ F 没有依赖
     </item>
     <item>
       <title>基础教程</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/project/use-vue-service/guide/base/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/project/use-vue-service/guide/base/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">基础教程</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/project/use-vue-service/guide/base/</link>
+      <guid>https://www.kaokei.com/project/use-vue-service/guide/base/</guid>
+      <source url="https://www.kaokei.com/rss.xml">基础教程</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="简介"> 简介</h2>
 <p>本教程介绍最基础的两个 api，通过这两个 api 来大概认识一下怎么使用本库。</p>
 <ul>
@@ -3411,10 +3411,10 @@ F 没有依赖
     </item>
     <item>
       <title>如何使用类组件</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/project/use-vue-service/guide/component/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/project/use-vue-service/guide/component/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">如何使用类组件</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/project/use-vue-service/guide/component/</link>
+      <guid>https://www.kaokei.com/project/use-vue-service/guide/component/</guid>
+      <source url="https://www.kaokei.com/rss.xml">如何使用类组件</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="简介"> 简介</h2>
 <p>本教程继续介绍下面这个 api，进而掌握如何使用类组件，以及在类组件中使用依赖注入能力。</p>
 <ul>
@@ -3518,10 +3518,10 @@ F 没有依赖
     </item>
     <item>
       <title>使用指南</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/project/use-vue-service/guide/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/project/use-vue-service/guide/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">使用指南</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/project/use-vue-service/guide/</link>
+      <guid>https://www.kaokei.com/project/use-vue-service/guide/</guid>
+      <source url="https://www.kaokei.com/rss.xml">使用指南</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="简介"> 简介</h2>
 <p>本库基于 vue3.x 的 reactive 特性，借鉴了 angular 的 service 的实现机制，在 vue 环境中实现了基于服务的依赖注入，可以替代 vuex 更加方便的管理数据。</p>
 <h2 id="快速搭建项目"> 快速搭建项目</h2>
@@ -3591,10 +3591,10 @@ vue create projectName
     </item>
     <item>
       <title>@kaokei/use-vue-service</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/project/use-vue-service/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/project/use-vue-service/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">@kaokei/use-vue-service</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/project/use-vue-service/</link>
+      <guid>https://www.kaokei.com/project/use-vue-service/</guid>
+      <source url="https://www.kaokei.com/rss.xml">@kaokei/use-vue-service</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="安装"> 安装</h2>
 <div><pre><code><span>npm</span> <span>install</span> -S reflect-metadata @kaokei/use-vue-service
 </code></pre>
@@ -3608,10 +3608,10 @@ vue create projectName
     </item>
     <item>
       <title>博客主页</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">博客主页</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/</link>
+      <guid>https://www.kaokei.com/</guid>
+      <source url="https://www.kaokei.com/rss.xml">博客主页</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -3620,13 +3620,13 @@ vue create projectName
     </item>
     <item>
       <title>幻灯片页</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/slides/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/slides/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">幻灯片页</source>
-      <pubDate>Sun, 28 Nov 2021 09:06:28 GMT</pubDate>
+      <link>https://www.kaokei.com/slides/</link>
+      <guid>https://www.kaokei.com/slides/</guid>
+      <source url="https://www.kaokei.com/rss.xml">幻灯片页</source>
+      <pubDate>Mon, 29 Nov 2021 06:23:56 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
-      <enclosure url="https://vuepress-theme-hope-demo.mrhope.site/logo.svg" type="image/svg+xml"/>
+      <enclosure url="https://www.kaokei.com/logo.svg" type="image/svg+xml"/>
     </item>
   </channel>
 </rss>
